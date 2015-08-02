@@ -1,8 +1,8 @@
 {
-  "name": "diet-qs",
-  "version": "0.1.0",
+  "name": "dscms-qs",
+  "version": "0.1.1",
   "description": "A querystring parser used in diet. Supports multidimensional arrays & objects. Converts values into their correct data types.",
-  "homepage": "http://dietjs.com/",
+  "homepage": "http://dspeed.eu/node_modules/dscms-qs",
   "keywords": [
     "qs",
     "querystring",
@@ -10,19 +10,20 @@
     "stringify querystring"
   ],
   "bugs": {
-    "url": "http://github.com/adamhalasz/diet-qs/issues",
-    "email": "mail@adamhalasz.com"
+    "url": "http://github.com/DIREKTSPEED-LTD/dscms-qs/issues",
+    "email": "node_modules@dspeed.eu"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adamhalasz/diet-qs.git"
+    "url": "https://github.com/DIREKTSPEED-LTD/dscms-qs.git"
   },
-  "license": "MIT",
+  "license": "(MIT OR Apache-2.0)"
   "author": {
-    "name": "Halász Ádám",
-    "email": "mail@adamhalasz.com",
-    "url": "http://adamhalasz.com/"
+    "Halász Ádám <mail@adamhalasz.com> (http://adamhalasz.com/)"
   },
+  "contributors": {
+    "Frank Lemanschik <frank@dspeed.eu> (http://dspeed.eu/persons/frank-lemanschik)"
+  }
   "dependencies": {
     "sugar": "1.4.1"
   },
